@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CelsiusToFahrenheit {
+public class Presentation{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
